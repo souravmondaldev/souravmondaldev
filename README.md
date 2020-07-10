@@ -3,7 +3,7 @@
 <!--
 **souravmondaldev/souravmondaldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
  
-![Create, Build, Inspire!](/devportfolioSM.png)
+![Create, Build, Inspire!](https://souravmondaldev.me)
 
 ### Hi there 👋, I am Sourav Mondal
 
