@@ -3,14 +3,15 @@
 <!--
 **souravmondaldev/souravmondaldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
  
-![Create, Build, Inspire!](https://github.com/souravmondaldev/souravmondaldev/blob/master/devportfolioSM.png)
+***Create, Build, Inspire!***
+![SouravMondal](https://github.com/souravmondaldev/souravmondaldev/blob/master/devportfolioSM.png)
 
 ### Hi there 👋, I am Sourav Mondal
 
-- 🔭 I’m currently working on **Software Engineering Intern at JPMorgan Chase and Co.**. 
-- 🌱 I’m currently learning **Computer Science And Engineering**
+- 🔭 I’m currently working on ***Software Engineering.***
+- 🌱 I’m currently learning ***Computer Science And Engineering***
 - 👯 I’m looking to collaborate on bulding communities, building startup and software engineering projects 😉
-- 💬 Ask me about Software Engineering, Career, etc.
+- 💬 Ask me about Software Engineering, Career, Data Structure and Algorithms, Projects etc.
 - 📫 How to reach me: [souravmondal0341@gmail.com](mailto:souravmondal0341@gmail.com)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am crazy about **O(1)** and my **comments can lie but code never**
