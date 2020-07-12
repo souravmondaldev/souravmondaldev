@@ -16,8 +16,8 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am crazy about **O(1)** and my **comments can lie but code never**
 
-***Websites:***
-[Developer Portfolio](https://souravmondaldev.me)
+***Developer Portfolio:***
+[souravmondaldev.me](https://souravmondaldev.me)
 
 ***Social Media Handles:***
 [Twitter](https://twitter.com/souravmondaldev) • [LinkedIn](https://www.linkedin.com/in/souravmondaldev/) • [Facebook](https://facebook.com/souravmondaldev)
