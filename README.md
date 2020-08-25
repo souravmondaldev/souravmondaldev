@@ -2,10 +2,30 @@
 
 <!--
 **souravmondaldev/souravmondaldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
- 
-***Create, Build, Inspire!***
-![SouravMondal](https://github.com/souravmondaldev/souravmondaldev/blob/master/devportfolioSM.png)
+ <!-- ### Hi there 👋 -->
 
+<p align="center">
+  <h2 align="center"><samp>Hi there 👋</samp></h2>
+</p>
+
+<p align="center">
+  <samp>
+    I love connecting with different people so if you want to say hi, I'll
+    be happy to meet you! :)
+    <br />
+    I'm currently looking for full-time Software Engineering opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me.
+    <!-- <a href="https://souravmondaldev.me">souravmondaldev.me</a> -->
+    <br />
+    <br />
+    <a href="https://souravmondaldev.me/">About Me</a>
+    ·
+    <a href="mailto:souravmondal0341@gmail.com">Email</a>
+    ·
+    <a href="https://linkedin.com/in/souravmondaldev/">LinkedIn</a>
+  </samp>
+</p>
+
+<!--
 ### Hi there 👋, I am Sourav Mondal
 
 - 🔭 I’m currently working on ***Software Engineering.***
@@ -26,4 +46,4 @@
 ***Competetive Handles:***
 [Codechef](https://www.codechef.com/users/sourav_mondal) • [Codeforces](https://codeforces.com/profile/souravmondal)  • [Atcoder](https://atcoder.jp/users/souravmondal)  • [Hackerearth](https://www.hackerearth.com/@souravmondaldev) • [Leetcode](https://leetcode.com/souravmondaldev/)
 
-
+-->
