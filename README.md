@@ -17,7 +17,7 @@
     <!-- <a href="https://souravmondaldev.me">souravmondaldev.me</a> -->
     <br />
     <br />
-    <a href="https://souravmondaldev.me/">About Me</a>
+    <a href="https://souravmondaldev.github.io/">About Me</a>
     ·
     <a href="mailto:souravmondal0341@gmail.com">Email</a>
     ·
