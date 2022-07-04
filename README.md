@@ -46,4 +46,6 @@
 [Codechef](https://www.codechef.com/users/sourav_mondal) • [Codeforces](https://codeforces.com/profile/souravmondal)  • [Atcoder](https://atcoder.jp/users/souravmondal)  • [Hackerearth](https://www.hackerearth.com/@souravmondaldev) • [Leetcode](https://leetcode.com/souravmondaldev/)
 
 -->
-![souravmondaldev](https://github-readme-stats.vercel.app/api?username=souravmondaldev&repo=algo&show_icons=true&include_all_commits=true&hide=contribs&theme=solarized-light?style=center)
+<p align = "center">
+<img align="center" src= "https://github-readme-stats.vercel.app/api?username=souravmondaldev&repo=algo&show_icons=true&include_all_commits=true&hide=contribs&theme=solarized-dark" />
+</p>
