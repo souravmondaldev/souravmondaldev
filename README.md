@@ -22,28 +22,13 @@
   </samp>
 </p>
 
-<!--
-### Hi there 👋, I am Sourav Mondal
 
-- 🔭 I’m currently working on ***Software Engineering.***
-- 🌱 I’m currently learning ***Computer Science And Engineering***
-- 👯 I’m looking to collaborate on bulding communities, building startup and software engineering projects 😉
-- 💬 Ask me about Software Engineering, Career, Data Structure and Algorithms, Projects etc.
-- 📫 How to reach me: [souravmondal0341@gmail.com](mailto:souravmondal0341@gmail.com)
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I am crazy about **O(1)** and my **comments can lie but code never**
-
-***Developer Portfolio:***
-[souravmondaldev.me](https://souravmondaldev.me)
-
-***Social Media Handles:***
-[Twitter](https://twitter.com/souravmondaldev) • [LinkedIn](https://www.linkedin.com/in/souravmondaldev/) • [Facebook](https://facebook.com/souravmondaldev)
-• [Instagram](https://instagram.com/souravmondaldev)  
-
-***Competetive Handles:***
-[Codechef](https://www.codechef.com/users/sourav_mondal) • [Codeforces](https://codeforces.com/profile/souravmondal)  • [Atcoder](https://atcoder.jp/users/souravmondal)  • [Hackerearth](https://www.hackerearth.com/@souravmondaldev) • [Leetcode](https://leetcode.com/souravmondaldev/)
-
--->
 <p align = "center">
 <img align="center" src= "https://github-readme-stats.vercel.app/api?username=souravmondaldev&repo=algo&show_icons=true&include_all_commits=true&hide=contribs&theme=solarized-dark" />
 </p>
+
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=souravmondaldev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravmondaldev&layout=compact)](https://github.com/tasawernawaz/github-readme-stats)
+-->
